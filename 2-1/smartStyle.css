@@ -13,9 +13,12 @@
 @media screen and (max-width: 479px) {
     .header{
         width: 150px;
+<<<<<<< HEAD
     }
     .left{
         float: none;
+=======
+>>>>>>> 236f71ddd7e72d7575c35da927ec9e2183cb4a20
     }
     .right{
         width: 150px;
